@@ -39,7 +39,6 @@ namespace ConsoleApp9
             Console.ReadLine();
             */
 
-            /*
             int y = 2000;
             double t = 20;
             Console.WriteLine($"{y} = {Math.Round(t, 2)}");
@@ -51,7 +50,6 @@ namespace ConsoleApp9
             }
             Console.WriteLine($"През {y} година реколтата е над 900 тона.");
             Console.ReadLine();
-            */
         }
     }
 }
